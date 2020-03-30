@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5935" started-at="2020-03-27T15:01:14Z" finished-at="2020-03-27T15:01:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5935" started-at="2020-03-27T15:01:14Z" finished-at="2020-03-27T15:01:20Z">
+      <class name="com.qa.restassured.RestAssuredPOSTcall_PUTcall_DELETEcall">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.qa.restassured.RestAssuredPOSTcall_PUTcall_DELETEcall@cb5822]" name="test" duration-ms="5868" started-at="2020-03-27T15:01:14Z" finished-at="2020-03-27T15:01:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.qa.restassured.RestAssuredPOSTcall_PUTcall_DELETEcall -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
